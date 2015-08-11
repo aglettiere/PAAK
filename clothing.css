@@ -1,0 +1,42 @@
+
+#name{
+	text-align:center;
+	font-weight:bold;
+	font-color:black;
+}
+
+#brand{
+	text-align:center;
+	font-color:#5C78CA;
+}
+
+#price{
+	text-align:center;
+	font-color:#CCFFFF;
+}
+
+.clothes{
+	background-color:#DAE5E8;
+	text-align:center;
+	
+}
+
+/* unvisited link */
+a:link {
+    color: #FF0000;
+}
+
+/* visited link */
+a:visited {
+    color: #52A3CC;
+}
+
+/* mouse over link */
+a:hover {
+    color: #000066;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+}

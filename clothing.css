@@ -1,24 +1,32 @@
 
+#picture{
+	margin-left:auto;
+	margin-right:auto;
+	height:50%;
+	width:50%;
+}
+
 #name{
 	text-align:center;
 	font-weight:bold;
-	font-color:black;
+	color:#D6B5D6;
+	font-size:170%;
 }
 
 #brand{
 	text-align:center;
-	font-color:#5C78CA;
+	color:#00007C;
+	font-size:120%;
 }
 
 #price{
 	text-align:center;
-	font-color:#CCFFFF;
+	color:#4D94FF;
+	font-size:90%;
 }
 
 .clothes{
-	background-color:#DAE5E8;
-	text-align:center;
-	
+	background-color:#C2FFFF;
 }
 
 /* unvisited link */
@@ -38,5 +46,5 @@ a:hover {
 
 /* selected link */
 a:active {
-    color: #0000FF;
+    color: #99FFCC;
 }
